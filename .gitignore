@@ -1,0 +1,9 @@
+# Archivos auxiliares y multimedia no utilizados por el sitio publicado
+.claude/
+canva/
+pruebas/
+video/
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
